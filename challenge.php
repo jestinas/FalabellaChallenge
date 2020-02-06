@@ -19,7 +19,7 @@
 		}
 	}
 	
-	for ($number = 1; $number <= 1000; $number++) {
+	for ($number = 1; $number <= 100; $number++) {
 		echo '<br>';
 		echo letsPrintThisNumber($number);
 	}
